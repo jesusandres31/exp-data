@@ -1,9 +1,5 @@
-node and pocketbase
+fastapi and pocketbase
 
-with drive get google sheets info
-
-put info into pocketbase
+google sheets api -> pocketbase
 
 use metabase to read pocketbase database
-
-<!-- test -->
